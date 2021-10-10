@@ -1,1 +1,2 @@
-[![jdmejiav's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdmejiav)](https://github.com/jdmejiav/github-readme-stats)
+![Juan Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdmejiav&count_private=true)
+
