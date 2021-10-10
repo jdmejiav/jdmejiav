@@ -2,5 +2,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdmejiav)](https://github.com/jdmejiav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdmejiav&hide=jupyter_notebook)](https://github.com/jdmejiav/github-readme-stats)
 
