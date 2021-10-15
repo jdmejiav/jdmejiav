@@ -1,3 +1,7 @@
+# Welcome to my Github's profile 
+
+currendtly i'm a computer science student at EAFIT university
+
 
 
 <table style="width:100%">
