@@ -1,6 +1,6 @@
 # Welcome to my Github's profile 
 
-currendtly i'm a computer science student at EAFIT university
+currently i'm a computer science student at EAFIT university
 
 
 
