@@ -1,6 +1,6 @@
-# Welcome to my Github's profile 
+# Hi there 👋
 
-Currently I am studying Computer Science at EAFIT university, and working as QA tester
+Currently I am studying Computer Science at EAFIT university
 
 
 
