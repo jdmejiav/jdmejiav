@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Currently I am studying Computer Science at EAFIT university
+Computer Science | EAFIT university
 
 
 
